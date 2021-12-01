@@ -1,0 +1,7 @@
+<suite name="Spritecloud Test Automation Task" parallel="false">
+    <test name="Spritecloud TA">
+        <classes>
+            <class name="org.emrebas.ci.blog.SimpleTest"/>
+        </classes>
+    </test>
+</suite>
